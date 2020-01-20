@@ -15,7 +15,7 @@ The background of the screen should be white (#FFFFFF) and the text should be be
 Remember this is a chance to demonstrate your knowledge of modern Android app development. This can include sepration of concerns, test coverage, error handling etc.
 We would expect you to spend no more than 2 evenings on this test. If you are unable to finish then comments on what you would do next will suffice.
 
-## Submittion
+## Submission
 
 The test submission needs to be archived (e.g. zip or tar) and sent via a file sharing site to ensure your submission is not blocked.               
 We recommend using https://wetransfer.com/ - Please fill in the information required, the ‘email to’ should be: javatests@rightmove.co.uk               
