@@ -12,7 +12,7 @@ The background of the screen should be white (#FFFFFF) and the text should be be
 
 ## Considerations
 
-Remember this is a chance to demonstrate your knowledge of modern Android app development. This can include sepration of concerns, test coverage, error handling etc.
+Remember this is a chance to demonstrate your knowledge of best practise Android app development. This can include sepration of concerns, test coverage, error handling etc.
 We would expect you to spend no more than 2 evenings on this test. If you are unable to finish then comments on what you would do next will suffice.
 
 ## Submission
